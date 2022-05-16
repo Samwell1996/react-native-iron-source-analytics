@@ -1,0 +1,4 @@
+#Mon May 16 15:45:24 EEST 2022
+base.0=/Users/Samwell/Desktop/rn/react-native-iron-source-analytics/example/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
